@@ -1,5 +1,3 @@
-# VolunteerPembuatanApk
-Repository ini untuk mencari sayembara volunteer dalam pembuatan Apk
 
 # Volunter Pembuatan Aplikasi
 
